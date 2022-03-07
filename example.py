@@ -1,4 +1,4 @@
-from src.followthemoney.followthemoney import FollowTheMoney
+from followthemoney.followthemoney import FollowTheMoney
 
 myquery = FollowTheMoney()
 myquery.add_filters(Election_Year=2021)
