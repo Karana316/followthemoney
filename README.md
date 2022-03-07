@@ -1,5 +1,7 @@
 ## Install
-```pip install``` 
+```
+pip install git+https://github.com/Karana316/followthemoney.git
+``` 
 
 ## Use
 Create a .env file with the api key, or set it as an environment variable
